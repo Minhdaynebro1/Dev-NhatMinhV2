@@ -1,7 +1,7 @@
 -- discord.gg/25ms
 
 
-shared.LoaderTitle = "Đăng Ký Kênh Min Gaming";
+shared.LoaderTitle = "This Script Is Skid, And This Script Is For Vietnam";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -96,7 +96,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://13717478897",
+    Image = "rbxassetid://139660098875279",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -105,7 +105,7 @@ local v8 = CreateObject("TextLabel", {
     Name = "UserName",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "Youtube: Min Gaming",
+    Text = "World Skid Hub / World Sjw Hub",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
@@ -313,7 +313,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://pastebin.com/raw/RMMS2qmV"))();
 local v15 = v14:CreateWindow({
-    Title = "World Skid Hub |Version: Coppy",
+    Title = "World Skid Hub | Version: Beta",
     SubTitle = "",
     TabWidth = 160,
     Theme = "Midnight",
@@ -2633,7 +2633,7 @@ v23.BorderSizePixel = 0;
 v23.Position = UDim2.new(0.120833337 - 0.1, 0, 0.0952890813 + 0.01, 0);
 v23.Size = UDim2.new(0, 50, 0, 50);
 v23.Draggable = true;
-v23.Image = "http://www.roblox.com/asset/?id=13717478897";
+v23.Image = "http://www.roblox.com/asset/?id=139660098875279";
 v24.Parent = v23;
 v24.CornerRadius = UDim.new(0, 12);
 v25.Parent = v23;
